@@ -3,7 +3,7 @@ This repository contains implementations of SVM and CNN models for dataset class
 
 1.Dataset Access
 The dataset used in this project can be accessed from the following Google Drive link:
-Dataset Link
+Dataset Link : https://drive.google.com/file/d/17iVPnXoJXo_O5zLx_MbvXUmipyhn03A4/view?usp=drive_link
 
 The dataset is organized into two main folders:
 SVM/
